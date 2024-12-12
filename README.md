@@ -36,8 +36,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/<username>/Glioma-Classification-using-Vision-Transformers.git
-
+git clone https://github.com/Prabodi/Medical-Image-Segmentation_Transformers.git
 
 2. Install required dependencies: Create a virtual environment (optional) and install the dependencies using pip:
 
@@ -112,4 +111,4 @@ This project leverages MRI datasets such as the BraTS 2021 dataset for glioma cl
 
 Contact
 
-For any questions, feel free to reach out to your email.
+For any questions, feel free to reach out to prabodi.ruwanthika@gmail.com
