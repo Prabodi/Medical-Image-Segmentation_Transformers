@@ -1,4 +1,4 @@
-# Medical-Image-Segmentation_Transformers
+# Medical Image Segmentation - Transformers
 
 Vision Transformers for Glioma Classification Using T1 Magnetic Resonance Images
 
